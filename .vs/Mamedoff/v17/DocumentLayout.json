@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rizva\\source\\repos\\Mamedoff\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1610A1D4-78A2-471A-AD30-0273421C36F7}|Mamedoff\\Mamedoff.csproj|c:\\users\\rizva\\source\\repos\\mamedoff\\mamedoff\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1610A1D4-78A2-471A-AD30-0273421C36F7}|Mamedoff\\Mamedoff.csproj|solutionrelative:mamedoff\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1610A1D4-78A2-471A-AD30-0273421C36F7}|Mamedoff\\Mamedoff.csproj|c:\\users\\rizva\\source\\repos\\mamedoff\\mamedoff\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1610A1D4-78A2-471A-AD30-0273421C36F7}|Mamedoff\\Mamedoff.csproj|solutionrelative:mamedoff\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1610A1D4-78A2-471A-AD30-0273421C36F7}|Mamedoff\\Mamedoff.csproj|c:\\users\\rizva\\source\\repos\\mamedoff\\mamedoff\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1610A1D4-78A2-471A-AD30-0273421C36F7}|Mamedoff\\Mamedoff.csproj|solutionrelative:mamedoff\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1610A1D4-78A2-471A-AD30-0273421C36F7}|Mamedoff\\Mamedoff.csproj|c:\\users\\rizva\\source\\repos\\mamedoff\\mamedoff\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{1610A1D4-78A2-471A-AD30-0273421C36F7}|Mamedoff\\Mamedoff.csproj|solutionrelative:mamedoff\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 312,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\rizva\\source\\repos\\Mamedoff\\Mamedoff\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Mamedoff\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\rizva\\source\\repos\\Mamedoff\\Mamedoff\\Login.aspx.cs",
+              "RelativeToolTip": "Mamedoff\\Login.aspx.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T16:38:49.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\rizva\\source\\repos\\Mamedoff\\Mamedoff\\Login.aspx",
+              "RelativeDocumentMoniker": "Mamedoff\\Login.aspx",
+              "ToolTip": "C:\\Users\\rizva\\source\\repos\\Mamedoff\\Mamedoff\\Login.aspx",
+              "RelativeToolTip": "Mamedoff\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-08T16:08:53.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "C:\\Users\\rizva\\source\\repos\\Mamedoff\\Mamedoff\\Site1.Master",
+              "RelativeDocumentMoniker": "Mamedoff\\Site1.Master",
+              "ToolTip": "C:\\Users\\rizva\\source\\repos\\Mamedoff\\Mamedoff\\Site1.Master",
+              "RelativeToolTip": "Mamedoff\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-08T16:10:08.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\rizva\\source\\repos\\Mamedoff\\Mamedoff\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "Mamedoff\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\rizva\\source\\repos\\Mamedoff\\Mamedoff\\WebForm1.aspx",
+              "RelativeToolTip": "Mamedoff\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-08T16:09:05.453Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 88,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
